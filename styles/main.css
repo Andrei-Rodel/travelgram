@@ -3,6 +3,7 @@ main{
     flex-wrap: wrap;
     gap: 24px;
     padding-block: 24px;
+    background-color: rgb(224, 247, 248);
 }
 
 main img {
